@@ -17,13 +17,17 @@
     "test:watch": "vitest watch"
   },
   "dependencies": {
+    "@next-auth/prisma-adapter": "1.0.5",
     "@next/font": "13.4.1",
+    "@prisma/client": "^4.14.0-integration-windows-portability.1",
     "@types/node": "20.1.0",
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
     "eslint": "8.40.0",
     "eslint-config-next": "13.4.1",
     "next": "13.4.1",
+    "next-auth": "^4.22.1",
+    "nodemailer": "6.9.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "5.0.4"
